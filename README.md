@@ -1,6 +1,6 @@
 ## Bruno Eleodoro Roza
 
-- Software Developer at IBM and a crazy programmer, attending hackathons, talks and other events.
+- Web3 Frontend Developer and a crazy programmer, attending hackathons, talks and other events.
 <br/>
 <center>
 <table>
