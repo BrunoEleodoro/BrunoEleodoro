@@ -1,6 +1,8 @@
 ## Bruno Eleodoro Roza
 
-- Web3 Frontend Developer and a crazy programmer, attending hackathons, talks and other events.
+- Web3 Frontend Developer.
+- Hackathons
+- Talks
 <br/>
 <center>
 <table>
